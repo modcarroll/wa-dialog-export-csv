@@ -2,4 +2,6 @@
 
 # Watson Assistant CSV Dialog Export
 
-Export Watson Assistant dialog in a readable format for business review
+Export Watson Assistant dialog in a readable format for business review.
+
+Note: This is an alpha version. All suggestions for improvements are welcome!
