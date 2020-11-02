@@ -1,7 +1,5 @@
-![PyPI pyversions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue)
-
 # Watson Assistant CSV Dialog Export
 
-Export Watson Assistant dialog in a readable format for business review.
+A Jupyter notebook that will export Watson Assistant dialog in a readable format for business review. Please follow the directions in the .ipynb file to execute. Note: This is meant to be executed in a Watson Studio instance.
 
-Note: This is an alpha version. All suggestions for improvements are welcome!
+This is an alpha version. All suggestions for improvements are welcome!
